@@ -46,7 +46,7 @@ if "chat_history" not in st.session_state:
     ]
 
 # page title
-st.title("精英律師事務所歡迎您")
+st.title("大隅律師事務所歡迎您")
 st.caption("法務問題我在行...")
 # the messages in chat_history will be stored as {"role":"user/assistant", "content":"msg}
 # display chat history
